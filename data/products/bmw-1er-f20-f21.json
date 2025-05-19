@@ -1,0 +1,71 @@
+{
+  "id": "bmw-1er-f20-f21",
+  "name": "BMW 1er F20/F21",
+  "price": 799.0,
+  "description": "Professionelle Nachrüstung der mehrfarbigen Ambientebeleuchtung für BMW 1er F20/F21. Vollständige Integration ins Fahrzeug mit Steuerung über das BMW iDrive-System.",
+  "features": [
+    "Vollständige Ambientebeleuchtung für Türen, Armaturenbrett und Fußraum",
+    "64 Farben über BMW iDrive steuerbar",
+    "Einfache Installation mit Plug-and-Play-Anschlüssen",
+    "Kompatibel mit allen F20/F21 Modellen ab Baujahr 2011",
+    "Inklusive detaillierter Installationsanleitung"
+  ],
+  "specifications": {
+    "Kompatibilität": "BMW 1er F20/F21 (2011-2019)",
+    "Anzahl der LEDs": "Je nach Ausstattung 10-16 Stück",
+    "Steuerung": "Über iDrive oder Menü",
+    "Stromverbrauch": "< 5W",
+    "Garantie": "2 Jahre"
+  },
+  "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-U4l1csypQqRn85chHu9kAjeZS2EMcw.png",
+  "gallery": ["https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-U4l1csypQqRn85chHu9kAjeZS2EMcw.png"],
+  "category": "Ambientebeleuchtung",
+  "installation": {
+    "difficulty": "Mittel",
+    "time": "2-3 Stunden",
+    "tools": ["Kunststoff-Hebelwerkzeug", "Torx-Schraubendreher", "Kabelbinder"]
+  },
+  "options": [
+    {
+      "id": "standard",
+      "name": "Standard",
+      "price": 299.99,
+      "description": "Grundausstattung mit Beleuchtung für Türen und Armaturenbrett"
+    },
+    {
+      "id": "premium",
+      "name": "Premium",
+      "price": 399.99,
+      "description": "Erweiterte Ausstattung mit zusätzlicher Beleuchtung für Fußraum und Getränkehalter"
+    },
+    {
+      "id": "ultimate",
+      "name": "Ultimate",
+      "price": 499.99,
+      "description": "Komplettausstattung mit allen verfügbaren Beleuchtungselementen und erweiterter Farbsteuerung"
+    }
+  ],
+  "rating": 5,
+  "sale": true,
+  "requiresInstallation": true,
+  "info": {
+    "Funktionen": [
+      "Über 60 Farben mit Mehrzonenkontrolle",
+      "Steuerung über BMW iDrive und optional per Smartphone-App",
+      "Intelligente Zonensteuerung für individuelle Farbeinstellungen",
+      "Hochwertige Lichtleiter mit verbesserter Lichtstreuung",
+      "Deutlich höhere Lichtstärke als Vorgängersysteme"
+    ],
+    "Grundpaket-Inhalt": [
+      "Türkontur-Beleuchtung vorne und hinten",
+      "Türgriff-Beleuchtung vorne und hinten",
+      "Türtaschen-Beleuchtung vorne und hinten",
+      "Fußraum-Beleuchtung vorne und hinten"
+    ],
+    "Hinweise": [
+      "iDrive-Steuerung nur bei Fahrzeugen mit NBT oder NBT EVO iDrive möglich",
+      "Bei Fahrzeugen mit CIC ist nur App-Steuerung verfügbar",
+      "Über das iDrive-System können bis zu 9 Farben eingestellt werden"
+    ]
+  }
+}

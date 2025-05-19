@@ -1,0 +1,52 @@
+{
+  "id": 46,
+  "name": "Ambientebeleuchtung für BMW 6er F06 F12 F13 (iDrive-Steuerung) inkl. Einbau",
+  "price": 799.0,
+  "rating": 5,
+  "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-7wnOZSONqdkOfCDJRZcJOKvtFO1Meu.png",
+  "sale": true,
+  "requiresInstallation": true,
+  "description": "Professionelle Nachrüstung der mehrfarbigen Ambientebeleuchtung für BMW 6er F06/F12/F13. Vollständige Integration ins Fahrzeug mit Steuerung über das BMW iDrive-System. Inklusive Einbau und Programmierung.",
+  "categories": "Ambientebeleuchtung",
+  "tags": "BMW",
+  "gallery": [
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-7wnOZSONqdkOfCDJRZcJOKvtFO1Meu.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-4gFqXcbSVXCxXqWuhlR3JBhSjpvDf0.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-nNalPlNiHOtm2N9HcTEa5aJ2YSwICF.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-v3GwYhTcIGSoRDqDAnErygMnoHMU8g.png"
+  ],
+  "options": {
+    "Grundpaket": [{ "name": "Grundpaket: Türflächen, Türtaschen, Armaturleiste, Fußraum", "price": 0 }],
+    "Getränkehalter-Beleuchtung": [
+      { "name": "Nicht gewünscht", "price": 0 },
+      { "name": "Getränkehalter-Beleuchtung", "price": 120 }
+    ],
+    "Dynamic-Mode": [
+      { "name": "Nicht gewünscht", "price": 0 },
+      { "name": "Dynamic-Mode (App-Steuerung)", "price": 150 }
+    ]
+  },
+  "info": {
+    "Funktionen": [
+      "64 verschiedene Farben zur Auswahl",
+      "Multi-Zonen Steuerung für individuelle Farben in verschiedenen Bereichen",
+      "Hybrid-Steuerung über BMW iDrive und Smartphone-App parallel möglich",
+      "Intelligente Zonen-Steuerung für unterschiedliche Farb- und Helligkeitseinstellungen",
+      "Hauchfeine Hartplastik-Glasfaser-Technologie für feinere Linienführung",
+      "Deutlich höhere Lichtstärke als Vorgänger-System"
+    ],
+    "Grundpaket-Inhalt": [
+      "Türflächen-Beleuchtung Vorne & Hinten",
+      "Türtaschen-Beleuchtung Vorne",
+      "Armaturleiste-Beleuchtung Links & Rechts",
+      "Fußraum-Beleuchtung Vorne & Hinten"
+    ],
+    "Hinweise": [
+      "iDrive-Steuerung nur möglich bei Fahrzeugen mit NBT oder NBT EVO iDrive (Fahrzeuge mit CIC: Steuerung per App & Radio-Tasten)",
+      "Über das iDrive-System können nur 9-11 Farben & Helligkeit eingestellt werden (64 Farben, 2-Zonen, Dynamic-Mode werden parallel per App gesteuert)",
+      "Die Farbzonen unterscheiden sich bei Buchung mit oder ohne Dynamic-Mode",
+      "Ohne Dynamic-Mode: Türen & Fußraum Zone 1, Armaturleiste & Klima-U Zone 2",
+      "Mit Dynamic-Mode: Türflächen & Armaturflächen Zone 1, Türtasche, Fußraum, Klima-U, Lautsprecher und Panorama Zone 2"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 41,
+  "name": "Ambientebeleuchtung für BMW 3er F30 F31 F34 (iDrive-Steuerung) inkl. Einbau",
+  "price": 799.0,
+  "rating": 5,
+  "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Co492VMkW3qXAUlycSbdUyJGHEcPZk.png",
+  "sale": true,
+  "requiresInstallation": true,
+  "description": "Professionelle Nachrüstung der mehrfarbigen Ambientebeleuchtung für BMW 3er F30/F31/F34. Vollständige Integration ins Fahrzeug mit Steuerung über das BMW iDrive-System. Inklusive Einbau und Programmierung.",
+  "categories": "Ambientebeleuchtung",
+  "tags": "BMW",
+  "gallery": [
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Co492VMkW3qXAUlycSbdUyJGHEcPZk.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Hi6wQ2GrnDTCfhjRNW2pQGvn6xRitI.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-CaFd4xGXnvUGU70tRwydlSZJrVQodD.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-vXoGR44UskHWuBsJrkCnPAQHA8lxWH.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-S6Vw9f0HmHNoYYgtkFy3Z3cYxCfMHg.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ZPZhvs6qwiA4Fee4U51GvuRmpQRDJf.png"
+  ],
+  "options": {
+    "Grundpaket": [{ "name": "Grundpaket: Türflächen, Türtaschen, Klima-U, Fußraum", "price": 0 }],
+    "Hochtöner-Beleuchtung": [
+      { "name": "Nicht gewünscht", "price": 0 },
+      { "name": "Hochtöner-Beleuchtung", "price": 250 }
+    ],
+    "Lautsprecher-Beleuchtung": [
+      { "name": "Nicht gewünscht", "price": 0 },
+      { "name": "Lautsprecher-Beleuchtung Vorne", "price": 180 },
+      { "name": "Lautsprecher-Beleuchtung Vorne + Hinten", "price": 250 }
+    ]
+  },
+  "info": {
+    "Funktionen": [
+      "64 verschiedene Farben zur Auswahl",
+      "Multi-Zonen Steuerung für individuelle Farben in verschiedenen Bereichen",
+      "Hybrid-Steuerung über BMW iDrive und Smartphone-App parallel möglich",
+      "Intelligente Zonen-Steuerung für unterschiedliche Farb- und Helligkeitseinstellungen",
+      "Hauchfeine Hartplastik-Glasfaser-Technologie für feinere Linienführung",
+      "Deutlich höhere Lichtstärke als Original-Ambientebeleuchtung"
+    ],
+    "Grundpaket-Inhalt": [
+      "Türflächen-Beleuchtung Vorne & Hinten",
+      "Türtaschen-Beleuchtung Vorne & Hinten",
+      "Klima-U Beleuchtung Vorne",
+      "Fußraum-Beleuchtung Vorne & Hinten"
+    ],
+    "Hinweise": [
+      "iDrive-Steuerung nur möglich bei Fahrzeugen mit NBT oder NBT EVO (Fahrzeuge mit CIC: Steuerung per App & Radio-Tasten)",
+      "Über das iDrive-System können nur 9-11 Farben & Helligkeit eingestellt werden (64 Farben, 2-Zonen, Dynamic-Mode werden parallel per App gesteuert)",
+      "Die Farbzonen unterscheiden sich bei Buchung mit oder ohne Dynamic-Mode",
+      "Ohne Dynamic-Mode: Türen & Fußraum Zone 1, Armaturleiste & Klima-U Zone 2",
+      "Mit Dynamic-Mode: Türflächen & Armaturflächen Zone 1, Türtasche, Fußraum, Klima-U, Lautsprecher und Panorama Zone 2"
+    ]
+  }
+}

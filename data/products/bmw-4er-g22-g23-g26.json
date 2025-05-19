@@ -1,0 +1,52 @@
+{
+  "id": 43,
+  "name": "Ambientebeleuchtung für BMW 4er G22 G23 G26 inkl. Einbau (Nachrüstung)",
+  "price": 999.0,
+  "rating": 5,
+  "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-d8UOVMoyEln3OYjf6VWGQyPtaSw2LI.png",
+  "sale": true,
+  "requiresInstallation": true,
+  "description": "Professionelle Nachrüstung der mehrfarbigen Ambientebeleuchtung für BMW 4er G22/G23/G26. Vollständige Integration ins Fahrzeug mit Steuerung über das BMW iDrive-System. Inklusive Einbau und Programmierung.",
+  "categories": "Ambientebeleuchtung",
+  "tags": "BMW",
+  "gallery": [
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-d8UOVMoyEln3OYjf6VWGQyPtaSw2LI.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-XoD4wI7C8YpBfzo2j1lm2bI08vfqzC.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-lT1AYN3aakZ9aiMTgQSWYBvN9bAAyT.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-KcwDFLlInqhx8XPCYraOPDW1eKGOPw.png"
+  ],
+  "options": {
+    "Grundpaket": [{ "name": "Grundpaket: Türkontur, Türgriffe, Türtaschen, Fußraum, Armaturenbrett", "price": 0 }],
+    "Hochtöner-Beleuchtung": [
+      { "name": "Nicht gewünscht", "price": 0 },
+      { "name": "Beleuchtete Hochtöner", "price": 350 }
+    ],
+    "Tür-Lautsprecher-Beleuchtung": [
+      { "name": "Nicht gewünscht", "price": 0 },
+      { "name": "Beleuchtete Türlautsprecher", "price": 250 }
+    ]
+  },
+  "info": {
+    "Funktionen": [
+      "11 verschiedene Farben zur Auswahl",
+      "Steuerung über BMW iDrive-System",
+      "Türwarnung: Ambientebeleuchtung pulsiert rot bei offener Tür",
+      "Spezifisches System für BMW 4er G22/G23/G26 (kein Universal-System)",
+      "Akkurate und gleichmäßige Linienführung durch modernste Technik"
+    ],
+    "Grundpaket-Inhalt": [
+      "Türkontur-Beleuchtung vorne und hinten",
+      "Türgriff-Beleuchtung vorne und hinten",
+      "Türtaschen-Beleuchtung vorne und hinten",
+      "Armaturenleiste-Beleuchtung links und rechts",
+      "Fußraum-Beleuchtung vorne und hinten"
+    ],
+    "Installation": [
+      "Professioneller Einbau durch unsere Spezialisten",
+      "Vollständige Integration ins Fahrzeugsystem",
+      "Programmierung über das BMW-Diagnosesystem",
+      "Keine sichtbaren Kabel oder nachträglichen Schalter",
+      "2 Jahre Garantie auf Material und Installation"
+    ]
+  }
+}

@@ -1,0 +1,852 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ambientebeleuchtung Mercedes A-Klasse W176",
+      "price": 799.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w176.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes A-Klasse W176",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176_5.jpeg"
+      ],
+      "options": {
+        "Paket-Auswahl": [
+          { "name": "Grundpaket: Türen, Armaturenbrett, Fußraum", "price": 0 },
+          { "name": "Grundpaket & Luftdüsen-Beleuchtung Vorne", "price": 200 }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ambientebeleuchtung Mercedes A-Klasse W177",
+      "price": 799.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w177.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes A-Klasse W177",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w177.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w177_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w177_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w177_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w177_5.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w177_6.jpeg"
+      ],
+      "options": {
+        "Paket-Auswahl": [
+          { "name": "Grundpaket: Türen, Armaturenbrett, Fußraum, Mittelkonsole", "price": 0 },
+          { "name": "Luftdüsen-Beleuchtung", "price": 200 },
+          { "name": "Luftdüsen-Beleuchtung & Sitzrücken-Beleuchtung", "price": 360 },
+          { "name": "Luftdüsen-Beleuchtung & Sitzrücken-Beleuchtung & Lautsprecher", "price": 650 }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Ambientebeleuchtung Mercedes B-Klasse W246",
+      "price": 799.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w176_2.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes B-Klasse W246",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176_5.jpeg"
+      ],
+      "options": {
+        "Paket-Auswahl": [
+          { "name": "Grundpaket: Türen, Armaturenbrett, Fußraum", "price": 0 },
+          { "name": "Grundpaket & Luftdüsen-Beleuchtung Vorne", "price": 200 }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ambientebeleuchtung Mercedes B-Klasse W247",
+      "price": 899.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w247.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes B-Klasse W247",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w247.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w247_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w247_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w247_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w247_5.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w247_6.jpeg"
+      ],
+      "options": {
+        "Paket-Auswahl": [
+          { "name": "Grundpaket: Türen, Armaturenbrett, Fußraum, Mittelkonsole", "price": 0 },
+          { "name": "Luftdüsen-Beleuchtung Vorne & Hinten", "price": 300 }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Ambientebeleuchtung Mercedes C-Klasse W205",
+      "price": 799.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w205.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes C-Klasse W205",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_5.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_6.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_7.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_8.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_9.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_10.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_11.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_12.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_13.jpeg"
+      ],
+      "options": {
+        "Grundpaket": [{ "name": "Grundpaket: Türen, Fußraum, Mittelkonsole", "price": 0 }],
+        "Luftdüsen-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Luftdüsen-Beleuchtung Vorne & Hinten", "price": 350 },
+          { "name": "Luftdüsen-Beleuchtung Vorne", "price": 280 }
+        ],
+        "Handschuhfachleiste": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Handschuhfachleiste", "price": 150 }
+        ],
+        "Ausfahrbare Hochtöner": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "3D/4D Ausfahrbare Hochtöner", "price": 250 }
+        ],
+        "Lautsprecher Cover": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Beleuchtete Lautsprecher Cover Vorne & Hinten", "price": 200 }
+        ],
+        "Sitzrücken-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Sitzrücken-Beleuchtung", "price": 100 }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Ambientebeleuchtung Mercedes C-Klasse W206",
+      "price": 799.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w206 (1).jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes C-Klasse W206",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (1).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (2).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (3).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (4).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (5).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (6).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (7).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (8).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (9).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (10).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (11).jpeg"
+      ],
+      "options": {
+        "Grundpaket": [{ "name": "Grundpaket: Türen, Fußraum, Mittelkonsole", "price": 0 }],
+        "Luftdüsen-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Luftdüsen-Beleuchtung Vorne & Hinten", "price": 450 },
+          { "name": "Luftdüsen-Beleuchtung Vorne", "price": 380 }
+        ],
+        "Tür-Kontur-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Tür-Kontur-Beleuchtung Vorne & Hinten", "price": 350 }
+        ],
+        "Ausfahrbare Hochtöner": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "3D/4D Ausfahrbare Hochtöner", "price": 350 }
+        ],
+        "Lautsprecher Cover": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Beleuchtete Lautsprecher Cover Vorne & Hinten", "price": 400 }
+        ],
+        "Sitzrücken-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Sitzrücken-Beleuchtung", "price": 200 }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "Ambientebeleuchtung Mercedes CLA-Klasse W117",
+      "price": 799.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w176.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes CLA-Klasse W117",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w176_5.jpeg"
+      ],
+      "options": {
+        "Paket-Auswahl": [
+          { "name": "Grundpaket: Türen, Armaturenbrett, Fußraum", "price": 0 },
+          { "name": "Grundpaket & Luftdüsen-Beleuchtung Vorne", "price": 200 }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "name": "Ambientebeleuchtung Mercedes CLA W118",
+      "price": 899.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w177.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes CLA W118",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w177.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w177_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w177_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w177_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w177_5.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w177_6.jpeg"
+      ],
+      "options": {
+        "Paket-Auswahl": [
+          { "name": "Grundpaket: Türen, Armaturenbrett, Fußraum, Mittelkonsole", "price": 0 },
+          { "name": "Luftdüsen-Beleuchtung", "price": 200 },
+          { "name": "Luftdüsen-Beleuchtung & Sitzrücken-Beleuchtung", "price": 360 },
+          { "name": "Luftdüsen-Beleuchtung & Sitzrücken-Beleuchtung & Lautsprecher", "price": 650 }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "name": "Ambientebeleuchtung Mercedes E-Klasse W213",
+      "price": 899.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w213.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes E-Klasse W213",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w213.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w213_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w213_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w213_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w213_5.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w213_6.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w213_7.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w213_8.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w213_9.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w213_10.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w213_11.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w213_12.jpeg"
+      ],
+      "options": {
+        "Grundpaket": [{ "name": "Grundpaket: Türen, Fußraum, Mittelkonsole, Armaturenbrett", "price": 0 }],
+        "Dekorleisten mit Glasfaser verbaut?": [
+          { "name": "Wähle eine Option", "price": 0 },
+          { "name": "Ja, meine Dekorleisten besitzen bereits die Glasfaser.", "price": 0 },
+          { "name": "Nein, meine Dekorleisten besitzen keine Glasfaser.", "price": 300 }
+        ],
+        "Luftdüsen-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Luftdüsen-Beleuchtung Vorne & Hinten", "price": 350 }
+        ],
+        "Ausfahrbare Hochtöner": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "3D/4D Ausfahrbare Hochtöner", "price": 250 }
+        ],
+        "Lautsprecher Cover": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Beleuchtete Lautsprecher Cover Vorne & Hinten", "price": 200 }
+        ],
+        "Sitzrücken-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Sitzrücken-Beleuchtung", "price": 200 }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "name": "Luftdüsen-Beleuchtung Vorne & Hinten Mercedes G-Klasse W463/W464",
+      "price": 549.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w463.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes G-Klasse W463/W464",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w463.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w463_2.jpeg"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Ambientebeleuchtung Mercedes GLC X253",
+      "price": 799.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w205_2.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes GLC X253",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_5.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_6.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_7.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_8.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_9.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_10.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_11.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_12.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w205_13.jpeg"
+      ],
+      "options": {
+        "Grundpaket": [{ "name": "Grundpaket: Türen, Fußraum, Mittelkonsole", "price": 0 }],
+        "Luftdüsen-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Luftdüsen-Beleuchtung Vorne & Hinten", "price": 350 },
+          { "name": "Luftdüsen-Beleuchtung Vorne", "price": 280 }
+        ],
+        "Handschuhfachleiste": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Handschuhfachleiste", "price": 150 }
+        ],
+        "Ausfahrbare Hochtöner": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "3D/4D Ausfahrbare Hochtöner", "price": 250 }
+        ],
+        "Lautsprecher Cover": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Beleuchtete Lautsprecher Cover Vorne & Hinten", "price": 200 }
+        ],
+        "Sitzrücken-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Sitzrücken-Beleuchtung", "price": 100 }
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "name": "Ambientebeleuchtung Mercedes GLC X254",
+      "price": 799.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w206 (2).jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes GLC X254",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (1).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (2).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (3).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (4).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (5).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (6).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (7).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (8).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (9).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (10).jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w206 (11).jpeg"
+      ],
+      "options": {
+        "Grundpaket": [{ "name": "Grundpaket: Türen, Fußraum, Mittelkonsole", "price": 0 }],
+        "Luftdüsen-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Luftdüsen-Beleuchtung Vorne & Hinten", "price": 450 },
+          { "name": "Luftdüsen-Beleuchtung Vorne", "price": 380 }
+        ],
+        "Tür-Kontur-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Tür-Kontur-Beleuchtung Vorne & Hinten", "price": 350 }
+        ],
+        "Ausfahrbare Hochtöner": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "3D/4D Ausfahrbare Hochtöner", "price": 350 }
+        ],
+        "Lautsprecher Cover": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Beleuchtete Lautsprecher Cover Vorne & Hinten", "price": 400 }
+        ],
+        "Sitzrücken-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Sitzrücken-Beleuchtung", "price": 200 }
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "name": "Ambientebeleuchtung Mercedes GLE W167",
+      "price": 549.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w167_2.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes GLE W167",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_5.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_6.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_7.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_8.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_9.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_10.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_11.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_12.jpeg"
+      ],
+      "options": {
+        "Luftdüsen-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Luftdüsen-Beleuchtung Vorne & Hinten", "price": 549 },
+          { "name": "Luftdüsen-Beleuchtung Vorne", "price": 380 }
+        ],
+        "Lautsprecher Abdeckungen Beleuchtet": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Lautsprecher Abdeckungen Beleuchtet", "price": 399 },
+          { "name": "Beleuchtete Cover Blenden Vorne & Hinten", "price": 300 }
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "name": "Ambientebeleuchtung Mercedes GLS W167",
+      "price": 549.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w167_3.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes GLS W167",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_5.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_6.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_7.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_8.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_9.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_10.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_11.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w167_12.jpeg"
+      ],
+      "options": {
+        "Luftdüsen-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Luftdüsen-Beleuchtung Vorne & Hinten", "price": 549 },
+          { "name": "Luftdüsen-Beleuchtung Vorne", "price": 380 }
+        ],
+        "Lautsprecher Abdeckungen Beleuchtet": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Lautsprecher Abdeckungen Beleuchtet", "price": 399 },
+          { "name": "Beleuchtete Cover Blenden Vorne & Hinten", "price": 300 }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "name": "Luftdüsen-Beleuchtung Mercedes S-Klasse W222",
+      "price": 499.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w222.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes S-Klasse W222",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w222.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w222_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w222_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w222_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w222_5.jpeg"
+      ],
+      "options": {
+        "Luftdüsen-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Luftdüsen-Beleuchtung Vorne & Hinten", "price": 499 }
+        ],
+        "Lautsprecher Abdeckungen Beleuchtet": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Beleuchtete Cover Blenden Vorne & Hinten", "price": 300 }
+        ],
+        "Ausfahrbare Hochtöner": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "3D/4D Ausfahrbare Hochtöner", "price": 349 }
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "name": "Luftdüsen-Beleuchtung Mercedes S-Klasse W223",
+      "price": 599.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w223.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes S-Klasse W223",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w223.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w223_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w223_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w223_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w223_5.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w223_6.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w223_7.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w223_8.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w223_9.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w223_10.jpeg"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Ambientebeleuchtung Mercedes V-Klasse W447",
+      "price": 1099.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/w447.jpeg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Mercedes V-Klasse W447",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Mercedes",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/w447.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w447_2.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w447_3.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w447_4.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w447_5.jpeg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/w447_6.jpeg"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Ambientebeleuchtung für Audi A3 S3 RS3 8V",
+      "price": 899.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/a38v (1).jpg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Audi A3 S3 RS3 8V",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Audi",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38v (1).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38v (2).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38v (3).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38v (4).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38v (5).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38v (6).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38v (7).jpg"
+      ],
+      "options": {
+        "Luftdüsen-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Luftdüsen-Beleuchtung orne", "price": 280 }
+        ],
+        "Lautsprecher Bang & Olufsen Beleuchtet": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Beleuchtete Blenden Vorne", "price": 150 }
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "name": "Ambientebeleuchtung für Audi A3 S3 RS3 8Y",
+      "price": 999.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/a38y (5).jpg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Audi A3 S3 RS3 8Y",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Audi",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38y (5).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38y (1).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38y (2).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38y (3).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38y (4).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38y (6).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38y (7).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a38y (8).jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Ambientebeleuchtung für Audi A4 S4 B9",
+      "price": 799.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (7).jpg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Audi A4 S4 B9",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Audi",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (7).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (1).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (2).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (3).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (4).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (5).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (6).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (8).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (9).jpg"
+      ],
+      "options": {
+        "Mittelkonsole-Konturbeleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Mittelkonsole-Konturbeleuchtung Carbon oder Schwarz", "price": 150 }
+        ],
+        "Bang & Olufsen Ausfahrbare Hochtöner (mit Beleuchtung)": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Ausfahrbare Hochtöner", "price": 300 }
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "name": "Ambientebeleuchtung für Ambientebeleuchtung für Audi A5 S5 F5 (B9)",
+      "price": 799.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (5).jpg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Audi A5 S5 F5 B9",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Audi",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (7).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (1).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (2).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (3).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (4).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (5).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (6).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (8).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a4b9 (9).jpg"
+      ],
+      "options": {
+        "Mittelkonsole-Konturbeleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Mittelkonsole-Konturbeleuchtung Carbon oder Schwarz", "price": 150 }
+        ],
+        "Bang & Olufsen Ausfahrbare Hochtöner (mit Beleuchtung)": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Ausfahrbare Hochtöner", "price": 300 }
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "name": "Ambientebeleuchtung für Audi A4 S4 RS4 B8/8K",
+      "price": 799.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (1).jpg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung für Audi A4 S4 RS4 B8/8K",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Audi",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (1).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (2).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (3).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (4).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (5).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (6).jpg"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Ambientebeleuchtung für Audi A5 S5 RS5 B8/8K",
+      "price": 799.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (3).jpg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung für Audi A5 S5 RS5 B8/8K",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Audi",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (1).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (2).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (3).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (4).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (5).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a5b8 (6).jpg"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Ambientebeleuchtung für Audi A6 C7/4G",
+      "price": 899.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/a6c7 (1).jpg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung für Audi A6 C7/4G",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Audi",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c7 (1).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c7 (2).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c7 (3).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c7 (4).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c7 (5).jpg"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Ambientebeleuchtung für Audi A7 C7/4G",
+      "price": 899.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/a6c7 (4).jpg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung für Audi A7 C7/4G",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Audi",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c7 (1).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c7 (2).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c7 (3).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c7 (4).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c7 (5).jpg"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Ambientebeleuchtung für Audi A6 S6 C8/4K",
+      "price": 1299.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (8).jpg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Audi A6 S6 C8/4K",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Audi",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (8).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (1).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (2).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (3).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (4).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (5).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (6).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (7).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (9).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (10).jpg"
+      ],
+      "options": {
+        "Quattro-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Quattro-Beleuchtung", "price": 280 }
+        ],
+        "Sitzrücken-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Sitzrücken-Beleuchtung", "price": 250 }
+        ],
+        "Bang & Olufsen Ausfahrbare Hochtöner (mit Beleuchtung)": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Ausfahrbare Hochtöner B&O", "price": 400 }
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "name": "Ambientebeleuchtung für Audi A7 S7 C8/4K",
+      "price": 1299.0,
+      "rating": 5,
+      "image": "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (6).jpg",
+      "sale": true,
+      "requiresInstallation": true,
+      "description": "Professionelle Nachrüstung der Ambientebeleuchtung mit Original-Steuerung für Audi A7 S7 C8/4K",
+      "categories": "Ambientebeleuchtung",
+      "tags": "Audi",
+      "gallery": [
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (8).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (1).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (2).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (3).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (4).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (5).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (6).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (7).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (9).jpg",
+        "https://raw.githubusercontent.com/serfur55/SS/main/a6c8 (10).jpg"
+      ],
+      "options": {
+        "Quattro-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Quattro-Beleuchtung", "price": 280 }
+        ],
+        "Sitzrücken-Beleuchtung": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Sitzrücken-Beleuchtung", "price": 250 }
+        ],
+        "Bang & Olufsen Ausfahrbare Hochtöner (mit Beleuchtung)": [
+          { "name": "Nicht gewünscht", "price": 0 },
+          { "name": "Ausfahrbare Hochtöner B&O", "price": 400 }
+        ]
+      }
+    }
+  ]
+}

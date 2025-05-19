@@ -1,0 +1,66 @@
+{
+  "id": 44,
+  "name": "Ambientebeleuchtung für BMW 5er G30 G31 inkl. Einbau (Nachrüstung)",
+  "price": 999.0,
+  "rating": 5,
+  "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-xUjgfHzxBdNJdzqVLVMRYvvzmWy4Sz.png",
+  "sale": true,
+  "requiresInstallation": true,
+  "description": "Professionelle Nachrüstung der mehrfarbigen Ambientebeleuchtung für BMW 5er G30/G31. Vollständige Integration ins Fahrzeug mit Steuerung über das BMW iDrive-System. Inklusive Einbau und Programmierung.",
+  "categories": "Ambientebeleuchtung",
+  "tags": "BMW",
+  "gallery": [
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-P68haUpJolezy8BqPR9FKt9NgWE3pL.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ck4KOu4juKZ3Y1RgwPFYsRZfyzAlEL.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-J76m48VJLh9jkBvsxLey6AIHMEHfiz.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-0gakPnWuhbnQuiQODjGf1UOyXd13YF.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-xUjgfHzxBdNJdzqVLVMRYvvzmWy4Sz.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-zyqXPxh4UIGK5y6gxQAYekQzqJvwtW.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ABf2HZ5Y4ubtxgAYuCDkhFNkxFJkPF.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-FnqYwbXsnDlG8q64xpvmPCcnXBEWB0.png"
+  ],
+  "options": {
+    "Grundpaket": [{ "name": "Grundpaket: Türpanel, Armaturenbrett, Fußraum", "price": 0 }],
+    "Hochtöner-Beleuchtung": [
+      { "name": "Nicht gewünscht", "price": 0 },
+      { "name": "Beleuchtete Hochtöner", "price": 350 }
+    ],
+    "Lautsprecher-Beleuchtung": [
+      { "name": "Nicht gewünscht", "price": 0 },
+      { "name": "Beleuchtete Lautsprecher Vorne", "price": 180 },
+      { "name": "Beleuchtete Lautsprecher Vorne & Hinten", "price": 250 }
+    ],
+    "Ausfahrbare Hochtöner": [
+      { "name": "Nicht gewünscht", "price": 0 },
+      { "name": "3D/4D Ausfahrbare Hochtöner", "price": 350 }
+    ]
+  },
+  "info": {
+    "Funktionen": [
+      "11 verschiedene Farben zur Auswahl",
+      "Steuerung über BMW iDrive-System",
+      "Türwarnung: Ambientebeleuchtung pulsiert rot bei offener Tür",
+      "Spezifisches System für BMW 5er G30/G31 (kein Universal-System)",
+      "Akkurate und gleichmäßige Linienführung durch modernste Technik"
+    ],
+    "Grundpaket-Inhalt": [
+      "Türpanel-Beleuchtung Vorne & Hinten (Linie Oben)",
+      "Türpanel-Beleuchtung Vorne & Hinten (Fläche Unten)",
+      "Türtaschen-Beleuchtung Vorne & Hinten",
+      "Armaturleiste-Beleuchtung Links & Rechts (Linie Oben)",
+      "Armaturleiste-Beleuchtung Rechts (Fläche Unten)",
+      "Fußraum-Beleuchtung Vorne & Hinten"
+    ],
+    "Installation": [
+      "Professioneller Einbau durch unsere Spezialisten",
+      "Vollständige Integration ins Fahrzeugsystem",
+      "Programmierung über das BMW-Diagnosesystem",
+      "Keine sichtbaren Kabel oder nachträglichen Schalter",
+      "2 Jahre Garantie auf Material und Installation"
+    ],
+    "Hinweise": [
+      "Bedingt durch die Türkonstruktion der oberen Konturbeleuchtung ist eine 100% gleichmäßige Beleuchtung nicht möglich",
+      "Diese sogenannten 'Schattenflecken' bei genauer Betrachtung sind auch bei der originalen Ambientebeleuchtung vorhanden und unvermeidbar"
+    ]
+  }
+}

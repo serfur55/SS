@@ -1,0 +1,54 @@
+{
+  "id": 45,
+  "name": "Ambientebeleuchtung für BMW X3 G01 inkl. Einbau (Nachrüstung)",
+  "price": 999.0,
+  "rating": 5,
+  "image": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-suYignxqTT5HHXvVh8EUQZdKSU8IQp.png",
+  "sale": true,
+  "requiresInstallation": true,
+  "description": "Professionelle Nachrüstung der mehrfarbigen Ambientebeleuchtung für BMW X3 G01. Vollständige Integration ins Fahrzeug mit Steuerung über das BMW iDrive-System. Inklusive Einbau und Programmierung.",
+  "categories": "Ambientebeleuchtung",
+  "tags": "BMW",
+  "gallery": [
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-suYignxqTT5HHXvVh8EUQZdKSU8IQp.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-y9qaBpngTT5HHXvVh8EUQZdKSU8IQp.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-9DGwsdqNf6JUPhy4llBm5iu8EZ0g58.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-PVVNyrm8N1rlSkSoSLa2tyjpx15K0x.png",
+    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-MLtDdkCaszWQWH4k2hTZXg1AIB3mCp.png"
+  ],
+  "options": {
+    "Grundpaket": [{ "name": "Grundpaket: Türkontur, Türflächen, Türtaschen, Armaturleiste, Fußraum", "price": 0 }],
+    "Hochtöner-Beleuchtung": [
+      { "name": "Nicht gewünscht", "price": 0 },
+      { "name": "Beleuchtete Hochtöner", "price": 350 }
+    ],
+    "Lautsprecher-Beleuchtung": [
+      { "name": "Nicht gewünscht", "price": 0 },
+      { "name": "Beleuchtete Lautsprecher Vorne", "price": 180 },
+      { "name": "Beleuchtete Lautsprecher Vorne & Hinten", "price": 250 }
+    ]
+  },
+  "info": {
+    "Funktionen": [
+      "11 verschiedene Farben zur Auswahl",
+      "Steuerung über BMW iDrive-System",
+      "Türwarnung: Ambientebeleuchtung pulsiert rot bei offener Tür",
+      "Spezifisches System für BMW X3 G01 (kein Universal-System)",
+      "Akkurate und gleichmäßige Linienführung durch modernste Technik"
+    ],
+    "Grundpaket-Inhalt": [
+      "Türkontur-Beleuchtung Vorne & Hinten",
+      "Türflächen-Beleuchtung Vorne & Hinten",
+      "Türtaschen-Beleuchtung Vorne & Hinten",
+      "Armaturleiste-Beleuchtung",
+      "Fußraum-Beleuchtung Vorne & Hinten"
+    ],
+    "Installation": [
+      "Professioneller Einbau durch unsere Spezialisten",
+      "Vollständige Integration ins Fahrzeugsystem",
+      "Programmierung über das BMW-Diagnosesystem",
+      "Keine sichtbaren Kabel oder nachträglichen Schalter",
+      "2 Jahre Garantie auf Material und Installation"
+    ]
+  }
+}

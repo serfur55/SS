@@ -1,0 +1,173 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 0%;
+  --foreground: 0 0% 100%;
+  --card: 0 0% 3%;
+  --card-foreground: 0 0% 100%;
+  --popover: 0 0% 3%;
+  --popover-foreground: 0 0% 100%;
+  --primary: 214 100% 35%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 214 100% 20%;
+  --secondary-foreground: 0 0% 100%;
+  --muted: 0 0% 15%;
+  --muted-foreground: 0 0% 70%;
+  --accent: 214 100% 35%;
+  --accent-foreground: 0 0% 100%;
+  --destructive: 0 100% 50%;
+  --destructive-foreground: 0 0% 100%;
+  --border: 0 0% 20%;
+  --input: 0 0% 20%;
+  --ring: 214 100% 35%;
+  --radius: 0.5rem;
+}
+
+html,
+body {
+  @apply bg-black text-white;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0047cc;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0052e6;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.8s ease forwards;
+}
+
+.animate-pulse-slow {
+  animation: pulse 3s infinite;
+}
+
+/* Parallax effect */
+.parallax {
+  transform-style: preserve-3d;
+  perspective: 1000px;
+}
+
+/* Glowing effect */
+.glow {
+  box-shadow: 0 0 15px rgba(0, 71, 204, 0.5);
+}
+
+.glow-text {
+  text-shadow: 0 0 10px rgba(0, 71, 204, 0.7);
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(90deg, #0047cc, #00a1ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Particle animation */
+@keyframes float {
+  0% {
+    transform: translateY(0) translateX(0);
+  }
+  50% {
+    transform: translateY(-20px) translateX(10px);
+  }
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+}
+
+.particle {
+  position: absolute;
+  border-radius: 50%;
+  animation: float 15s ease-in-out infinite;
+  z-index: 1;
+  filter: blur(1px); /* Leichter Blur-Effekt für weicheres Aussehen */
+}
+
+.large-particle {
+  animation: float 20s ease-in-out infinite;
+  filter: blur(2px); /* Stärkerer Blur-Effekt für größere Partikel */
+  z-index: 2; /* Höherer z-index für bessere Sichtbarkeit */
+}
+
+/* Glowing lines */
+@keyframes glow-line-animation {
+  0% {
+    opacity: 0.2;
+    width: 0;
+  }
+  50% {
+    opacity: 0.5; /* Reduzierte Deckkraft für subtilere Linien */
+    width: 100%;
+  }
+  100% {
+    opacity: 0.2;
+    width: 0;
+  }
+}
+
+.glow-line {
+  position: absolute;
+  height: 1px; /* Dünnere Linien */
+  background: linear-gradient(90deg, transparent, #0080ff, transparent);
+  animation: glow-line-animation 12s infinite; /* Langsamere Animation */
+  box-shadow: 0 0 5px rgba(0, 128, 255, 0.5); /* Reduzierter Glow-Effekt */
+}
+
+.line-1 {
+  top: 30%;
+  left: 0;
+  width: 100%;
+  animation-delay: 0s;
+}
+
+.line-2 {
+  top: 70%;
+  right: 0;
+  width: 100%;
+  animation-delay: 6s;
+}
